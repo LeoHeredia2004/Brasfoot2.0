@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Palmeiras",
+    "elenco": [
+      { "nome": "Carlos Miguel", "posicao": "GOLEIRO",  "forca": 85 },
+      { "nome": "Gustavo Gómez", "posicao": "DEFENSOR", "forca": 88 },
+      { "nome": "Andreas Pereira","posicao": "MEIA",    "forca": 87 },
+      { "nome": "Flaco Lopez",   "posicao": "ATACANTE", "forca": 86 }
+    ]
+  },
+  {
+    "nome": "Corinthians",
+    "elenco": [
+      { "nome": "Hugo Souza",    "posicao": "GOLEIRO",  "forca": 87 },
+      { "nome": "Caio Paulista", "posicao": "DEFENSOR", "forca": 81 },
+      { "nome": "Memphis Depay", "posicao": "MEIA",     "forca": 89 },
+      { "nome": "Yuri Alberto",  "posicao": "ATACANTE", "forca": 85 }
+    ]
+  }
+]
